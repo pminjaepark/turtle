@@ -199,7 +199,7 @@ def config_dict(filename):
 
 
 def MJfunction():
-    print("Made by Minjae Park, Seoul, korea")
+    print("Made by Minjae Park, Seoul, korea, i love minecraft")
 
 
 def readconfig(cfgdict):
@@ -4144,3 +4144,4 @@ if __name__ == "__main__":
     demo1()
     demo2()
     exitonclick()
+
